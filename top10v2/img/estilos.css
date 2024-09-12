@@ -1,0 +1,57 @@
+*{
+    text-align: center;
+}
+body{
+    background-color: #9ebde2;
+}
+
+
+img{
+     width:40%;   /* Largura da imagem. */
+     height:60% ;   /*Altura da imagem*/
+     opacity: 100%; /* Opacidade da imagem*/
+     border: 8px solid;
+     border-color: #1e0874;
+}
+
+img:hover{
+    opacity: 60%;
+    filter: saturate(10%);
+}
+
+#animal{
+    text-align: center;
+    zoom: 1;
+}
+
+#animal:hover{
+    zoom: 1.25;
+    border: 5px dashed;
+}
+
+
+h1{
+    text-align: center;
+    color: #1e0874;
+}
+
+h2{
+    color: #4c0e54;
+}
+
+h3{
+    color: #05275e;
+}
+
+p{
+    color: #605b10;
+}
+
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #4a3418;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
